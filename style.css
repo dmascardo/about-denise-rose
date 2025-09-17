@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: #e6ccff;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #4b0082; /* indigo headings */
+}
+
+ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
